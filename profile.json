@@ -1,0 +1,188 @@
+{
+    "profileHandle": "niklasbuchfink",
+    "name": "Niklas Buchfink",
+    "tagline": "UX Designer & Web Developer",
+    "proileImage": "https://media-exp1.licdn.com/dms/image/C5603AQEGJ1DLiA5kSw/profile-displayphoto-shrink_800_800/0/1620742734994?e=2147483647&v=beta&t=UAfUxxRbg0YZumepVFMUR-cwrLhQwS8TXeBKEh70dQw",
+    "bio": "Interaction designer 📱 and Electrical engineer ⚡ Into Webdev 👨🏻‍💻 & Prototyping 🛠️Technerd 🤓 & Musicfreak 🎶Working on getstage.app",
+    "experience": [
+        {
+            "title": "Design Intern",
+            "company": "Eatch Interactive GmbH",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQH-Pe1YZR8NSw/company-logo_100_100/0/1543075420515?e=2147483647&v=beta&t=WD_M84fyosfhXsjHkbR-aSvn1uCJSasabw-4uFXT7Qs",
+            "date": {
+                "startdate": "Aug. 2021",
+                "enddate": "Jan. 2022",
+                "daterange": "Aug. 2021-Jan. 2022",
+                "duration": "6 Monate"
+            },
+            "location": "Berlin, Deutschland",
+            "description": ""
+        },
+        {
+            "title": "Studienarbeitsbetreuer",
+            "company": "Duale Hochschule Baden-Württemberg",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGd2jO_cFjoA/company-logo_100_100/0/1615806427275?e=2147483647&v=beta&t=BuQFUqmJzjNMykc1tlsdiaZYfZA2A7tfGcWnQEuSzTI",
+            "date": {
+                "startdate": "Okt. 2019",
+                "enddate": "Juni 2020",
+                "daterange": "Okt. 2019-Juni 2020",
+                "duration": "9 Monate"
+            },
+            "location": "Friedrichshafen, Baden-Württemberg, Deutschland",
+            "description": "Betreuung einer Studienarbeit im Fach Elektrotechnik für die Entwicklung und den Bau eines analogen Synthesizer-Moduls"
+        },
+        {
+            "title": "Werkstudent im Bereich Entwicklung Tools",
+            "company": "Bosch",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQG3m8u91Ikx8A/company-logo_100_100/0/1657867638431?e=2147483647&v=beta&t=im_UXpsIemWP2U_qcNJhaHLkNHC-utwj1kzGE0nauXc",
+            "date": {
+                "startdate": "Nov. 2019",
+                "enddate": "Apr. 2020",
+                "daterange": "Nov. 2019-Apr. 2020",
+                "duration": "6 Monate"
+            },
+            "location": "Schwäbisch Gmünd, Baden-Württemberg, Deutschland",
+            "description": "Programmierung einer Skriptanwendungen für Software Container Test"
+        },
+        {
+            "title": "Dualer Student im Bereich Entwicklung Geräuschqualität und Klanggestaltung",
+            "company": "Daimler AG",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQFauOR0QcsMPQ/company-logo_100_100/0/1669104521490?e=2147483647&v=beta&t=hK9NXWpe5YhWkApQq8KD7M8dRuIFb_oUTA78mnI5LCk",
+            "date": {
+                "startdate": "Juli 2019",
+                "enddate": "Sept. 2019",
+                "daterange": "Juli 2019-Sept. 2019",
+                "duration": "3 Monate"
+            },
+            "location": "Sindelfingen, Baden-Württemberg, Deutschland",
+            "description": "Implementierung der Steuerlogik einer akustischen Komfortfunktion"
+        },
+        {
+            "title": "Dualer Student im Bereich Entwicklung Geräuschqualität und Klanggestaltung",
+            "company": "Daimler AG",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQFauOR0QcsMPQ/company-logo_100_100/0/1669104521490?e=2147483647&v=beta&t=hK9NXWpe5YhWkApQq8KD7M8dRuIFb_oUTA78mnI5LCk",
+            "date": {
+                "startdate": "Jan. 2019",
+                "enddate": "März 2019",
+                "daterange": "Jan. 2019-März 2019",
+                "duration": "3 Monate"
+            },
+            "location": "Sindelfingen, Baden-Württemberg, Deutschland",
+            "description": "Integration einer Sounddesign-Plattform für EV-Sounds mit Audio Weaver"
+        },
+        {
+            "title": "Dualer Student im Bereich Entwicklung SoundsystemeDualer Student im Bereich Entwicklung Akustische Prüfsysteme",
+            "company": "Daimler AGDaimler AG",
+            "companyImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQFauOR0QcsMPQ/company-logo_100_100/0/1669104521490?e=2147483647&v=beta&t=hK9NXWpe5YhWkApQq8KD7M8dRuIFb_oUTA78mnI5LCk",
+            "date": {
+                "startdate": "Juli 2018Apr. 2018",
+                "enddate": "Sept. 2018Juni 2018",
+                "daterange": "Juli 2018Apr. 2018-Sept. 2018Juni 2018",
+                "duration": "3 Monate3 Monate"
+            },
+            "location": "",
+            "description": "Aufbau eines intelligenten Klang-Inszenierungs-PrototypenWeiterentwicklung einer Simulationsumgebung für akustische Prüfsysteme und Programmierung einer Schnittstellen-Simulation"
+        }
+    ],
+    "education": [
+        {
+            "title": "Hochschule für Gestaltung Schwäbisch Gmünd",
+            "educationImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQFL98vMV1UIig/company-logo_100_100/0/1658133360411?e=2147483647&v=beta&t=PhLMf8eyNY2ZOVu4F1_Zj_wiVJ0hoGfJorEmsvib3l4",
+            "degree": "Bachelor of Arts - BA",
+            "subject": "Interaktionsgestaltung",
+            "grade": "",
+            "date": {
+                "startdate": "2019",
+                "enddate": "2023",
+                "daterange": "2019–2023"
+            },
+            "description": "Aktivitäten und Verbände:Hochschul-Onlinemagazin format+ - Einbindung von Podcasts. Verfasste Studierendenschaft Eventteam - Organisierung von EventsWährend meines Studiums des Interaktionsgestaltung habe ich mich auf UX-Forschung, Konzepte, Prototyping und die Entwicklung digitaler nutzerzentrierter Produkte konzentriert."
+        },
+        {
+            "title": "HSLU Hochschule Luzern",
+            "educationImage": "https://media-exp1.licdn.com/dms/image/C4E0BAQEuWkD95seKlw/company-logo_100_100/0/1645804227659?e=2147483647&v=beta&t=l1vC9gFg8CdBw_i4tp37cs9TmBHsab377jopZmN7l-M",
+            "degree": "Bachelor of Arts - BA",
+            "subject": "Digital Ideation",
+            "grade": "",
+            "date": {
+                "startdate": "2022",
+                "enddate": "2022",
+                "daterange": "2022–2022"
+            },
+            "description": "Auslandssemester an der Partnerhochschule der Hochschule für Gestaltung Schwäbisch Gmünd –Digital Ideation ist eine zeitgemäße und zukunftsorientierte gestalterische Ausbildung auf dem Gebiet der Informationstechnologie. Im Zentrum steht ein kreativer Umgang mit der Informatik, der auf aktuellen Designmethoden beruht."
+        },
+        {
+            "title": "Duale Hochschule Baden-Württemberg",
+            "educationImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGd2jO_cFjoA/company-logo_100_100/0/1615806427275?e=2147483647&v=beta&t=BuQFUqmJzjNMykc1tlsdiaZYfZA2A7tfGcWnQEuSzTI",
+            "degree": "Bachelor of Engineering - BE",
+            "subject": "Elektrotechnik, Fahrzeugelektronik und mechatronische Systeme",
+            "grade": "2,2",
+            "date": {
+                "startdate": "2016",
+                "enddate": "2019",
+                "daterange": "2016–2019"
+            },
+            "description": "In den theoretischen Studienphasen wurden neben den ingenieurwissenschaftlichen Grundlagen die fachlichen Schwerpunkte auf die Elektronik und die Fahrzeugtechnik gelegt. Darüber hinaus wurden Kenntnisse auf den Gebieten Fahrzeugelektronik, Mechatronik und Simulation vermittelt.Schwerpunkt | Elektromobilität, mechatronischen SystemenDurch den Wechsel der drei- bis sechsmonatige Theoriephasen an der Hochschule mit gleichlangen Praxisphasen bei der Daimler AG, konnte die Theorie…In den theoretischen Studienphasen wurden neben den ingenieurwissenschaftlichen Grundlagen die fachlichen Schwerpunkte auf die Elektronik und die Fahrzeugtechnik gelegt. Darüber hinaus wurden Kenntnisse auf den Gebieten Fahrzeugelektronik, Mechatronik und Simulation vermittelt.Schwerpunkt | Elektromobilität, mechatronischen SystemenDurch den Wechsel der drei- bis sechsmonatige Theoriephasen an der Hochschule mit gleichlangen Praxisphasen bei der Daimler AG, konnte die Theorie direkt in der Praxis angewandt werden und umgekehrt ergeben sich aus den Erfahrungen der Praxis neue Ansatzpunkte für die Theorie."
+        }
+    ],
+    "volunteeringExperience": [
+        {
+            "title": "Web-Entwickler",
+            "volunteering": "Hochschul-Onlinemagazin format+",
+            "volunteeringImage": "https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d",
+            "date": {
+                "startdate": "Apr. 2020",
+                "enddate": "Heute",
+                "daterange": "Apr. 2020-Heute",
+                "duration": "2 Jahre 9 Monate"
+            },
+            "field": "Bildungswesen",
+            "description": "Einbindung von Podcasts in die Webseite mittels Anchor.fm, RSS-Feed und dem Kirby CMS.Webseite: format-plus.design"
+        },
+        {
+            "title": "Teammitglied des Eventteams",
+            "volunteering": "Verfasste Studierendenschaft der Hochschule für Gestaltung",
+            "volunteeringImage": "https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d",
+            "date": {
+                "startdate": "Apr. 2020",
+                "enddate": "Heute",
+                "daterange": "Apr. 2020-Heute",
+                "duration": "2 Jahre 9 Monate"
+            },
+            "field": "Kunst und Kultur",
+            "description": "Organisation von Events für Studierende der Hochschule für Gestaltung Schwäbisch Gmünd"
+        },
+        {
+            "title": "Web-Entwickler, Web-Designer",
+            "volunteering": "Bündnis 90 Die Grünen Ortsverband Schorndorf",
+            "volunteeringImage": "https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d",
+            "date": {
+                "startdate": "Apr. 2020",
+                "enddate": "Okt. 2020",
+                "daterange": "Apr. 2020-Okt. 2020",
+                "duration": "7 Monate"
+            },
+            "field": "Politik",
+            "description": "Gestaltung und Programmierung der Webseite des OrtsverbandsWebseite: gruene-schorndorf.de"
+        }
+    ],
+    "certifications": [],
+    "patents": [
+        {
+            "title": "Verfahren zur Steuerung einer ambienten lnnenraumbeleuchtung",
+            "location": "Deutschland",
+            "number": "DE 10 2019 001 332 A1"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Deutsch",
+            "proficiency": "Muttersprache oder zweisprachig"
+        },
+        {
+            "language": "Englisch",
+            "proficiency": "Verhandlungssicher"
+        }
+    ],
+    "recommendations": []
+}
